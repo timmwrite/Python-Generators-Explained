@@ -1,4 +1,4 @@
-#In this tutorial i will be demonstrating how to us genartors and save both time and memory.
+#In this tutorial i will be demonstrating how to use genartors and save both time and memory.
 #the first syntax, we will be using the return keyword while in the second we will be using the generator function, yield ,
 #DIY too
 
